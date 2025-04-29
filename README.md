@@ -47,7 +47,7 @@ consulta_ministerio_ia/
 1. **Preparación del Entorno**
    ```bash
    # Clonar el repositorio
-   git clone [url-del-repositorio]
+   git clone https://github.com/mejia414/consulta_ministerio_ia.git
    cd consulta_ministerio_ia
 
    # Crear y activar entorno virtual
